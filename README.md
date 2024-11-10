@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there I am Laszlo 👋
+
+- I am currently getting my masters degree in Software Engineering at SAE Institute Germany 🎓
+- I am working in a student job as a part time software developer and I teach classes in JavaScript at my university 👨🏽‍💻
+- I mainly develop in C# and JavaScript and I also know the basics of C++ and Python 💻
 
 <!--
 **Laszlu/Laszlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
